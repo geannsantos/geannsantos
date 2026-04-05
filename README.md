@@ -1,6 +1,6 @@
 <h1>👨🏻‍💻 <span style="color:#00FFAA;">Gean</span> Santos</h1>
 
-**`desenvolvedo`**
+**`desenvolvedo back-end`**
 
 Me chamo Gean gleyson, tenho 20 anos e sou natural do pará . Concluí o ensino médio, com o curso técnico em informática. Atualmente, estou cursando engenharia de software na UNINTER. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[geangleyson](https://youtube.com/@geandeve?si=Nt0wEG4RvTHZ01i0)", onde mostro o dia a dia de um estundate de software, projetos inciantes e também através do intagram, com o perfil "[Gean_deve](https://www.instagram.com/gean.deve?igsh=ZThubm1xc2E3ajZh&utm_source=qr)",
 
