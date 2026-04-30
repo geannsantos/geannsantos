@@ -60,14 +60,7 @@ Me chamo Gean gleyson, tenho 20 anos e sou natural do pará . Concluí o ensino 
     style="padding-right; 10px"
     src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-algorithm-coding-and-development-flat-flat-juicy-fish.png"
 />
-<img 
-    align="left"
-    alt="HTML"
-    title="HTML"
-    width="30px"
-    style="padding-right; 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-/>
+
 <img 
     align="left"
     alt="Git"
